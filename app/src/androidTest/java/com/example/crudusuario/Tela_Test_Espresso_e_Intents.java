@@ -54,5 +54,5 @@ public class Tela_Test_Espresso_e_Intents {
         onView(withId(R.id.btUsuarioMenu)).perform(click());
     }
 
-//TESTE JENKINS
+//TESTE JENKINS teste
 }
